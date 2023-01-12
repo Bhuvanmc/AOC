@@ -8,6 +8,9 @@ fun printProducts()
 }
 fun main(args: Array<String>) {
     println(welcome())
+    println("branch AOC_103")
+    println("branch 103")
+    println("branch 104")
     printProducts()
 
     // Try adding program arguments via Run/Debug configuration.
